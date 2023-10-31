@@ -1,14 +1,6 @@
 # 4MG
 
-Group Members:
-
-Ahmad Jalkhan
-
-Airil Haziq
-
-Ahmad Hafiz
-
-Adam Iskandar
+Group Members: Ahmad Jalkhan, Airil Haziq, Ahmad Hafiz, Adam Iskandar
 
 
 Currently Suggested Project: Smart Traffic Lights
