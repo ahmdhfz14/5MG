@@ -17,7 +17,7 @@ Google Drive: https://drive.google.com/drive/folders/1mVX7pbe4SpZIgyTg01anTDM1k1
 
 Assignment 1 - Progress 1 Tasks:
 
-Current Problem:
+Current Problem: 
 
 Proposed solution: Jalkhan
 
@@ -27,4 +27,4 @@ KR Explaination: Jalkhan
 
 First Order Logic of KR:
 
-How KR solves the goal:
+How KR solves the goal: Hafiz
