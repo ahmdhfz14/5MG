@@ -17,7 +17,7 @@ Google Drive: https://drive.google.com/drive/folders/1mVX7pbe4SpZIgyTg01anTDM1k1
 
 Assignment 1 - Progress 1 Tasks:
 
-Current Problem: 
+Current Problem: Airil
 
 Proposed solution: Jalkhan
 
@@ -25,6 +25,6 @@ Knowledge representation (KR): Jalkhan
 
 KR Explaination: Jalkhan
 
-First Order Logic of KR:
+First Order Logic of KR: Adam
 
 How KR solves the goal: Hafiz
