@@ -37,7 +37,7 @@ Assignment 2 - Progress 2 Tasks:
 
 States and Actions: Jalkhan 
 
-Graph Representation: 
+Graph Representation: Airil
 
 Problem Formulation: Hafiz
 
