@@ -39,7 +39,7 @@ States and Actions: Jalkhan
 
 Graph Representation: 
 
-Problem Formulation: 
+Problem Formulation: Hafiz
 
 Solution of Problem & Answer the question:
 
