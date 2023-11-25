@@ -41,7 +41,7 @@ Graph Representation:
 
 Problem Formulation: Hafiz
 
-Solution of Problem & Answer the question:
+Solution of Problem & Answer the question: Adam
 
 
 https://docs.google.com/document/d/1nqz1FGj_03vxNrDLayOZ0sJoa19UnQQ_fw4SeBFU6SU/edit?usp=sharing
