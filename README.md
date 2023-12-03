@@ -44,4 +44,15 @@ Problem Formulation: Hafiz
 Solution of Problem & Answer the question: Adam
 
 
-https://docs.google.com/document/d/1nqz1FGj_03vxNrDLayOZ0sJoa19UnQQ_fw4SeBFU6SU/edit?usp=sharing
+
+====================================================================
+
+Assignment 3 - Progress 3 Tasks:
+
+Detailed Explanation: Jalkhan 
+
+PEAS Model Diagram: 
+
+Representation in Proof of Concept (POC): 
+
+How agents in AI behave in the proposed system?: 
