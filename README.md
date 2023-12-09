@@ -55,4 +55,4 @@ PEAS Model Diagram:
 
 Representation in Proof of Concept (POC): 
 
-How agents in AI behave in the proposed system?: 
+How agents in AI behave in the proposed system?: Adam
