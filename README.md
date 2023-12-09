@@ -51,7 +51,7 @@ Assignment 3 - Progress 3 Tasks:
 
 Detailed Explanation: Jalkhan 
 
-PEAS Model Diagram: 
+PEAS Model Diagram: Airil
 
 Representation in Proof of Concept (POC): Hafiz
 
