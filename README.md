@@ -53,6 +53,6 @@ Detailed Explanation: Jalkhan
 
 PEAS Model Diagram: 
 
-Representation in Proof of Concept (POC): 
+Representation in Proof of Concept (POC): Hafiz
 
 How agents in AI behave in the proposed system?: Adam
